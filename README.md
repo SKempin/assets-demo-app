@@ -2,7 +2,12 @@
 
 Minimal Expo app demonstrating Firebase Authentication and Firestore asset CRUD.
 
-Key features
+## App Tour
+
+📱 [Watch the app tour](docs/app-tour.mov)
+
+
+## Key features
 - [x] Login handling.
 - [x] Logout handling.
 - [x] Create, read, update, delete Firestore documents (assets).
@@ -12,7 +17,7 @@ Key features
 - [x] View and update details of a specific asset.
 
 
-Firestore architecture
+## Firestore architecture
 
 - **Context**: Provides a real-time list of all assets for screens like asset listings
 - **Individual subscriptions**: Ensure single-asset views stay in sync even if context hasn’t updated yet
