@@ -4,7 +4,7 @@ Minimal Expo app demonstrating Firebase Authentication and Firestore asset CRUD.
 
 ## App Tour
 
-📱 [Watch the app tour](docs/app-tour.mov)
+📱 [Watch the app tour](docs/app-tour.gif)
 
 
 ## Key features
