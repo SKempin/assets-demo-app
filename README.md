@@ -4,8 +4,7 @@ Minimal Expo app demonstrating Firebase Authentication and Firestore asset CRUD.
 
 ## App Tour
 
-📱 [Watch the app tour](docs/app-tour.gif)
-
+<img src="https://github.com/SKempin/assets-demo-app/blob/main/docs/app-tour.gif" width="350" >
 
 ## Key features
 - [x] Login handling.
