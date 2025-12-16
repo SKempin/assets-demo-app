@@ -1,11 +1,11 @@
 {
   "expo": {
     "name": "assets-survey-demo",
-    "slug": "assets-survey-demo",
+    "slug": "demo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "demoapp",
+    "scheme": "assets-survey-demo",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
@@ -58,6 +58,7 @@
       "eas": {
         "projectId": "2ac654ba-44e5-44b0-9feb-924f00bc00e7"
       }
-    }
+    },
+    "owner": "skempin"
   }
 }
